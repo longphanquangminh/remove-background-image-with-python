@@ -3,4 +3,6 @@
 
 # pip install rembg
 
-# pip install PIL
+# pip install Pillow
+
+https://drive.google.com/uc?id=1tCU5MM1LhRgGou5OpmpjBQbSrYIUoYab
